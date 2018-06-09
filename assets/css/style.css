@@ -1,0 +1,60 @@
+
+
+body {
+    background-image: url("../images/washi2X.png");
+    font-family: "Times New Roman", Times, serif;
+}
+
+.title-name {
+    color: #ffffff;
+    background-color: #ca7127;
+    font-size: 25px;
+    height: 67px;
+    width: 240px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    display: inline-block;
+}
+
+.instructions {
+    background-color: #fbe7cd;
+}
+
+.target {
+    background-color: #3bb375;
+    font-size: 25px;
+    height: 150px;
+}
+
+.scoreboard {
+    background-color: #03fdfe;
+    height: 150px;
+    margin-left: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.gems {
+    margin-top: 10px;
+}
+
+.gem1 {
+    background-color: red;
+}
+
+.gem2 {
+    background-color: yellow;
+}
+
+.gem3 {
+    background-color: lawngreen;
+}
+
+.gem4 {
+    background-color: blueviolet;
+}
