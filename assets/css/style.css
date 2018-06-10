@@ -1,7 +1,7 @@
 
 
 body {
-    background-image: url("../images/washi2X.png");
+    background-image: url("../images/washi.png");
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -57,4 +57,12 @@ img {
 
 .gem4 {
     background-color: blueviolet;
+}
+
+.total-score {
+    background-color: #028a89;
+}
+
+.score {
+    color: #99d3da;
 }
