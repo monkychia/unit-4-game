@@ -25,6 +25,7 @@ body {
     background-color: #3bb375;
     font-size: 25px;
     height: 150px;
+    width: 300px;
 }
 
 .scoreboard {
@@ -61,8 +62,16 @@ img {
 
 .total-score {
     background-color: #028a89;
+    font-size: 16px;
 }
 
 .score {
     color: #99d3da;
+    font-size: 25px;
+}
+
+.displayTotal {
+    width: 200px;
+    height: 200px;
+    background-color: #028a89;
 }
